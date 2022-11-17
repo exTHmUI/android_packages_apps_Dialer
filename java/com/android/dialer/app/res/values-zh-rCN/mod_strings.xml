@@ -35,4 +35,8 @@
     <string name="deny">拒绝</string>
     <string name="call_recording_category_title">通话录音</string>
     <string name="call_recording_format">音频格式</string>
+    <string name="disable_proximity_sensor_title">禁用接近传感器</string>
+    <string name="disable_proximity_sensor_summary">接打电话时不会关闭触摸屏和显示</string>
+    <string name="sensor_settings_titile">传感器</string>
+    <string name="action_menu_yellowpage">黄页设置</string>
 </resources>
